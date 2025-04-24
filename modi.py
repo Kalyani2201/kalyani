@@ -2,8 +2,8 @@ import streamlit as st
 import time
 import google.generativeai as genai
 #import matplotlib.pyplot as plt
-import plotly.express as px  # Added for interactive animations
-import plotly.graph_objects as go
+#import plotly.express as px  # Added for interactive animations
+#import plotly.graph_objects as go
 import numpy as np
 from PIL import Image  # For loading Mitosis images
 
